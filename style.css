@@ -1,0 +1,44 @@
+*{margin:0;
+ padding:0px;
+ box-sizing:border-box;}
+
+ .container{ 
+    width:90%;
+        margin:auto;
+        display:flex;
+        border: 10px solid rgb(21, 245, 1);
+    }
+
+    .row{
+        text-align: center;
+        width: 80%;
+        height: 50vh;
+        border: 5px solid rgb(250, 40, 40)
+    }
+    .row label{
+        font-size: larger;
+        font-family:monospace; }
+    .row input{
+        height:5vh;
+    }
+    .row h1{
+        padding-top:50px;
+        padding-bottom: 50px;
+    }
+    .row1{
+        text-align: center;
+        width: 80%;
+        height: 50vh;
+        border: 5px solid rgb(235, 223, 222);
+    }
+    .row1 h1{
+        padding-top:50px;
+        padding-bottom: 50px;
+    }
+    .row1 label{
+        font-size: larger;
+        font-family: monospace;
+    }
+    .row1 input{
+        height:5vh;
+    }
